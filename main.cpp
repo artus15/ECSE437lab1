@@ -1,5 +1,7 @@
 // Artus Julliard 260916424
+// artus.julliard@mail.mcgill.ca
 // Namdar Kabolinejad 260893536
+// namdar.kabolinejad@mail.mcgill.ca
 
 #include<iostream>
 using namespace std;
