@@ -1,5 +1,9 @@
+// Artus Julliard 260916424
+// Namdar Kabolinejad 260893536
+
 #include<iostream>
 using namespace std;
+
 int main ()
 {
    int i, j,temp;
